@@ -44,6 +44,11 @@ console.log(calculate(5, 3, add));
 console.log(calculate(5, 3, multiply)); // here add , multiply are simple callback
 
 
-
+// output 
+/*4
+[ 3, 6, 9 ]
+virali understand callback
+8
+15*/
 
 
